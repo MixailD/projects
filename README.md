@@ -1,1 +1,2 @@
-# short description and navigation 
+# Hi !
+Here is short description of my progect. 
